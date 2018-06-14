@@ -120,3 +120,47 @@ h3 {
 
 .delivery {
   padding-top: 17px; }
+
+.container-categories {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  color: #FFF; }
+
+.bathroom {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bathroom.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  position: relative; }
+
+.kitchen {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/kitchen.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  position: relative; }
+
+.bedroom {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bedroom.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  position: relative; }
+
+.livingroom {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/livingroom.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  position: relative; }
+
+.container-categories h3 {
+  position: absolute;
+  width: 100%;
+  top: 250px;
+  left: 0px;
+  font-size: 30px;
+  text-align: center; }
+
+.livingroom h3 {
+  top: 230px !important; }
