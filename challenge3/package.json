@@ -2,13 +2,14 @@
   "name": "challenge3",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
   "scripts": {
     "compile:sass": "node-sass scss/main.scss css/style.css"
   },
-  "author": "juliananderson",
-  "license": "ISC",
-  "devDependencies": {
-    "node-sass": "^4.9.0"
-  }
+  "author": "julianjca",
+  "license": "ISC"
 }
