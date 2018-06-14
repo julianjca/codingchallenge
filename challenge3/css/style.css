@@ -11,6 +11,14 @@ h3 {
   padding: 0;
   margin: 0; }
 
+#shop:hover,
+#collection:hover,
+#blog:hover,
+#contact:hover {
+  color: black;
+  font-size: 110%;
+  font-weight: 500; }
+
 .navbar {
   display: grid;
   grid-template-columns: 2fr 6fr;

@@ -24,6 +24,21 @@ $color3: #B0A38D;
   position: relative;
 }
 
+@mixin hovernavbar {
+  color: black;
+  font-size: 110%;
+  font-weight: 500;
+}
+
+#shop,
+#collection,
+#blog,
+#contact {
+  &:hover {
+    @include hovernavbar;
+  }
+}
+
 .navbar {
   display: grid;
   grid-template-columns: 2fr 6fr;
