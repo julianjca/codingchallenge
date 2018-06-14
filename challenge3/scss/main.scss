@@ -162,22 +162,22 @@ $color3: #B0A38D;
 }
 
 .bathroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bathroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/bathroom.jpg);
   @include categoriesImage;
 }
 
 .kitchen {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/kitchen.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/kitchen.jpg);
   @include categoriesImage;
 }
 
 .bedroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bedroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/bedroom.jpg);
   @include categoriesImage;
 }
 
 .livingroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/livingroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/livingroom.jpg);
   @include categoriesImage;
 }
 

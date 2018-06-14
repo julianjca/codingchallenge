@@ -127,28 +127,28 @@ h3 {
   color: #FFF; }
 
 .bathroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bathroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/bathroom.jpg);
   width: 100%;
   height: 500px;
   background-size: cover;
   position: relative; }
 
 .kitchen {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/kitchen.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/kitchen.jpg);
   width: 100%;
   height: 500px;
   background-size: cover;
   position: relative; }
 
 .bedroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bedroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/bedroom.jpg);
   width: 100%;
   height: 500px;
   background-size: cover;
   position: relative; }
 
 .livingroom {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/livingroom.jpg);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.278), rgba(0, 0, 0, 0.278)), url(../images/livingroom.jpg);
   width: 100%;
   height: 500px;
   background-size: cover;
